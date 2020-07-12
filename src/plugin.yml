@@ -1,0 +1,7 @@
+main: io.dizie.snap.Main
+name: Snap
+version: 1.0
+author: dizie
+
+commands:
+  Snap:
